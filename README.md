@@ -9,4 +9,4 @@ This repository provides instruction of data visualization with matplotlib, whic
 5. Map Plots
 6. Multiple Plots
 7. Annotation
-8. Data Visulization Improvement
+8. [Data Visulization Improvement](https://github.com/pikapikasecoy/Data-Visualization/blob/main/08_redesign_data_visualization_improvement.ipynb)
