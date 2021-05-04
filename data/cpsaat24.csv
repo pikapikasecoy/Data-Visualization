@@ -1,0 +1,161 @@
+year,Sex,Complex,Unemployment_Rates,Marital_Status,Age,Race
+2018,Male,"Total, 16 years and over",3.9,,16-25,
+2018,Male,"Married, spouse present",2,Married,,
+2018,Male,"Widowed, divorced, or separated",4.5,"Widowed, Divorced or Seperated",,
+2018,Male,Never married,6.9,Never married,,
+2018,Male,"White, 16 years and over",3.5,,16-25,White
+2018,Male,"Married, spouse present",1.9,Married,,
+2018,Male,"Widowed, divorced, or separated",4.4,"Widowed, Divorced or Seperated",,
+2018,Male,Never married,6,Never married,,
+2018,Male,"Black or African American, 16 years and over",7,,16-25,Black or African American
+2018,Male,"Married, spouse present",3.3,Married,,
+2018,Male,"Widowed, divorced, or separated",5.6,"Widowed, Divorced or Seperated",,
+2018,Male,Never married,10.4,Never married,,
+2018,Male,"Asian, 16 years and over",3,,16-25,Asian
+2018,Male,"Married, spouse present",1.8,Married,,
+2018,Male,"Widowed, divorced, or separated",1.6,"Widowed, Divorced or Seperated",,
+2018,Male,Never married,5.8,Never married,,
+2018,Male,"Hispanic or Latino ethnicity, 16 years and over",4.3,,16-25,Hispanic or Latino
+2018,Male,"Married, spouse present",2.7,Married,,
+2018,Male,"Widowed, divorced, or separated",4.7,"Widowed, Divorced or Seperated",,
+2018,Male,Never married,6.4,Never married,,
+2018,Male,"Total, 25 years and over",3.2,,>= 25,
+2018,Male,"Married, spouse present",2,Married,,
+2018,Male,"Widowed, divorced, or separated",4.4,"Widowed, Divorced or Seperated",,
+2018,Male,Never married,5.3,Never married,,
+2018,Male,"White, 25 years and over",2.8,,>= 25,White
+2018,Male,"Married, spouse present",1.9,Married,,
+2018,Male,"Widowed, divorced, or separated",4.3,"Widowed, Divorced or Seperated",,
+2018,Male,Never married,4.6,Never married,,
+2018,Male,"Black or African American, 25 years and over",5.4,,>= 25,Black or African American
+2018,Male,"Married, spouse present",3.3,Married,,
+2018,Male,"Widowed, divorced, or separated",5.6,"Widowed, Divorced or Seperated",,
+2018,Male,Never married,7.9,Never married,,
+2018,Male,"Asian, 25 years and over",2.4,,>= 25,Asian
+2018,Male,"Married, spouse present",1.8,Married,,
+2018,Male,"Widowed, divorced, or separated",1.7,"Widowed, Divorced or Seperated",,
+2018,Male,Never married,4.7,Never married,,
+2018,Male,"Hispanic or Latino ethnicity, 25 years and over",3.3,,>= 25,Hispanic or Latino
+2018,Male,"Married, spouse present",2.6,Married,,
+2018,Male,"Widowed, divorced, or separated",4.5,"Widowed, Divorced or Seperated",,
+2018,Male,Never married,4.3,Never married,,
+2019,Male,"Total, 16 years and over",3.7,,16-25,
+2019,Male,"Married, spouse present",1.8,Married,,
+2019,Male,"Widowed, divorced, or separated",4,"Widowed, Divorced or Seperated",,
+2019,Male,Never married,6.7,Never married,,
+2019,Male,"White, 16 years and over",3.3,,16-25,White
+2019,Male,"Married, spouse present",1.7,Married,,
+2019,Male,"Widowed, divorced, or separated",3.8,"Widowed, Divorced or Seperated",,
+2019,Male,Never married,5.9,Never married,,
+2019,Male,"Black or African American, 16 years and over",6.6,,16-25,Black or African American
+2019,Male,"Married, spouse present",2.6,Married,,
+2019,Male,"Widowed, divorced, or separated",5.5,"Widowed, Divorced or Seperated",,
+2019,Male,Never married,10.1,Never married,,
+2019,Male,"Asian, 16 years and over",2.7,,16-25,Asian
+2019,Male,"Married, spouse present",1.9,Married,,
+2019,Male,"Widowed, divorced, or separated",2.7,"Widowed, Divorced or Seperated",,
+2019,Male,Never married,4.5,Never married,,
+2019,Male,"Hispanic or Latino ethnicity, 16 years and over",4,,16-25,Hispanic or Latino
+2019,Male,"Married, spouse present",2.3,Married,,
+2019,Male,"Widowed, divorced, or separated",3.6,"Widowed, Divorced or Seperated",,
+2019,Male,Never married,6.3,Never married,,
+2019,Male,"Total, 25 years and over",2.9,,>= 25,
+2019,Male,"Married, spouse present",1.8,Married,,
+2019,Male,"Widowed, divorced, or separated",3.9,"Widowed, Divorced or Seperated",,
+2019,Male,Never married,5,Never married,,
+2019,Male,"White, 25 years and over",2.6,,>= 25,White
+2019,Male,"Married, spouse present",1.7,Married,,
+2019,Male,"Widowed, divorced, or separated",3.7,"Widowed, Divorced or Seperated",,
+2019,Male,Never married,4.4,Never married,,
+2019,Male,"Black or African American, 25 years and over",5.1,,>= 25,Black or African American
+2019,Male,"Married, spouse present",2.6,Married,,
+2019,Male,"Widowed, divorced, or separated",5.5,"Widowed, Divorced or Seperated",,
+2019,Male,Never married,7.7,Never married,,
+2019,Male,"Asian, 25 years and over",2.4,,>= 25,Asian
+2019,Male,"Married, spouse present",1.9,Married,,
+2019,Male,"Widowed, divorced, or separated",2.5,"Widowed, Divorced or Seperated",,
+2019,Male,Never married,3.9,Never married,,
+2019,Male,"Hispanic or Latino ethnicity, 25 years and over",3,,>= 25,Hispanic or Latino
+2019,Male,"Married, spouse present",2.3,Married,,
+2019,Male,"Widowed, divorced, or separated",3.5,"Widowed, Divorced or Seperated",,
+2019,Male,Never married,4.3,Never married,,
+2018,Female,"Total, 16 years and over",3.8,,16-25,
+2018,Female,"Married, spouse present",2.4,Married,,
+2018,Female,"Widowed, divorced, or separated",4,"Widowed, Divorced or Seperated",,
+2018,Female,Never married,5.8,Never married,,
+2018,Female,"White, 16 years and over",3.4,,16-25,White
+2018,Female,"Married, spouse present",2.3,Married,,
+2018,Female,"Widowed, divorced, or separated",4,"Widowed, Divorced or Seperated",,
+2018,Female,Never married,5,Never married,,
+2018,Female,"Black or African American, 16 years and over",6,,16-25,Black or African American
+2018,Female,"Married, spouse present",3.3,Married,,
+2018,Female,"Widowed, divorced, or separated",4.5,"Widowed, Divorced or Seperated",,
+2018,Female,Never married,8.2,Never married,,
+2018,Female,"Asian, 16 years and over",3,,16-25,Asian
+2018,Female,"Married, spouse present",2.4,Married,,
+2018,Female,"Widowed, divorced, or separated",2.5,"Widowed, Divorced or Seperated",,
+2018,Female,Never married,4.7,Never married,,
+2018,Female,"Hispanic or Latino ethnicity, 16 years and over",5.1,,16-25,Hispanic or Latino
+2018,Female,"Married, spouse present",3.9,Married,,
+2018,Female,"Widowed, divorced, or separated",5.2,"Widowed, Divorced or Seperated",,
+2018,Female,Never married,6.5,Never married,,
+2018,Female,"Total, 25 years and over",3.2,,>= 25,
+2018,Female,"Married, spouse present",2.3,Married,,
+2018,Female,"Widowed, divorced, or separated",4,"Widowed, Divorced or Seperated",,
+2018,Female,Never married,4.6,Never married,,
+2018,Female,"White, 25 years and over",2.9,,>= 25,White
+2018,Female,"Married, spouse present",2.2,Married,,
+2018,Female,"Widowed, divorced, or separated",3.9,"Widowed, Divorced or Seperated",,
+2018,Female,Never married,3.8,Never married,,
+2018,Female,"Black or African American, 25 years and over",5.1,,>= 25,Black or African American
+2018,Female,"Married, spouse present",3.2,Married,,
+2018,Female,"Widowed, divorced, or separated",4.5,"Widowed, Divorced or Seperated",,
+2018,Female,Never married,7,Never married,,
+2018,Female,"Asian, 25 years and over",2.5,,>= 25,Asian
+2018,Female,"Married, spouse present",2.4,Married,,
+2018,Female,"Widowed, divorced, or separated",2.5,"Widowed, Divorced or Seperated",,
+2018,Female,Never married,3,Never married,,
+2018,Female,"Hispanic or Latino ethnicity, 25 years and over",4.4,,>= 25,Hispanic or Latino
+2018,Female,"Married, spouse present",3.8,Married,,
+2018,Female,"Widowed, divorced, or separated",5,"Widowed, Divorced or Seperated",,
+2018,Female,Never married,5.1,Never married,,
+2019,Female,"Total, 16 years and over",3.6,,16-25,
+2019,Female,"Married, spouse present",2.2,Married,,
+2019,Female,"Widowed, divorced, or separated",3.8,"Widowed, Divorced or Seperated",,
+2019,Female,Never married,5.5,Never married,,
+2019,Female,"White, 16 years and over",3.2,,16-25,White
+2019,Female,"Married, spouse present",2.2,Married,,
+2019,Female,"Widowed, divorced, or separated",3.7,"Widowed, Divorced or Seperated",,
+2019,Female,Never married,4.8,Never married,,
+2019,Female,"Black or African American, 16 years and over",5.6,,16-25,Black or African American
+2019,Female,"Married, spouse present",2.7,Married,,
+2019,Female,"Widowed, divorced, or separated",4.2,"Widowed, Divorced or Seperated",,
+2019,Female,Never married,7.8,Never married,,
+2019,Female,"Asian, 16 years and over",2.7,,16-25,Asian
+2019,Female,"Married, spouse present",2.1,Married,,
+2019,Female,"Widowed, divorced, or separated",2.2,"Widowed, Divorced or Seperated",,
+2019,Female,Never married,4.2,Never married,,
+2019,Female,"Hispanic or Latino ethnicity, 16 years and over",4.7,,16-25,Hispanic or Latino
+2019,Female,"Married, spouse present",3.5,Married,,
+2019,Female,"Widowed, divorced, or separated",3.8,"Widowed, Divorced or Seperated",,
+2019,Female,Never married,6.4,Never married,,
+2019,Female,"Total, 25 years and over",3,,>= 25,
+2019,Female,"Married, spouse present",2.2,Married,,
+2019,Female,"Widowed, divorced, or separated",3.7,"Widowed, Divorced or Seperated",,
+2019,Female,Never married,4.3,Never married,,
+2019,Female,"White, 25 years and over",2.8,,>= 25,White
+2019,Female,"Married, spouse present",2.1,Married,,
+2019,Female,"Widowed, divorced, or separated",3.6,"Widowed, Divorced or Seperated",,
+2019,Female,Never married,3.7,Never married,,
+2019,Female,"Black or African American, 25 years and over",4.5,,>= 25,Black or African American
+2019,Female,"Married, spouse present",2.6,Married,,
+2019,Female,"Widowed, divorced, or separated",4.3,"Widowed, Divorced or Seperated",,
+2019,Female,Never married,6.2,Never married,,
+2019,Female,"Asian, 25 years and over",2.3,,>= 25,Asian
+2019,Female,"Married, spouse present",2.1,Married,,
+2019,Female,"Widowed, divorced, or separated",2.2,"Widowed, Divorced or Seperated",,
+2019,Female,Never married,2.9,Never married,,
+2019,Female,"Hispanic or Latino ethnicity, 25 years and over",3.8,,>= 25,Hispanic or Latino
+2019,Female,"Married, spouse present",3.3,Married,,
+2019,Female,"Widowed, divorced, or separated",3.6,"Widowed, Divorced or Seperated",,
+2019,Female,Never married,5.1,Never married,,

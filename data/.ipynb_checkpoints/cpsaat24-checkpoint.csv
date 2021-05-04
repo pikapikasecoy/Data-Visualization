@@ -1,0 +1,166 @@
+year,Sex,"Marital status, race, Hispanic
+or Latino ethnicity, and age",Unemployment Rates
+2018,Male,"Total, 16 years and over",3.9
+2018,Male,"Married, spouse present",2.0
+2018,Male,"Widowed, divorced, or separated",4.5
+2018,Male,Never married,6.9
+2018,Male,"White, 16 years and over",3.5
+2018,Male,"Married, spouse present",1.9
+2018,Male,"Widowed, divorced, or separated",4.4
+2018,Male,Never married,6.0
+2018,Male,"Black or African American, 16 years and over",7.0
+2018,Male,"Married, spouse present",3.3
+2018,Male,"Widowed, divorced, or separated",5.6
+2018,Male,Never married,10.4
+2018,Male,"Asian, 16 years and over",3.0
+2018,Male,"Married, spouse present",1.8
+2018,Male,"Widowed, divorced, or separated",1.6
+2018,Male,Never married,5.8
+2018,Male,"Hispanic or Latino ethnicity, 16 years and over",4.3
+2018,Male,"Married, spouse present",2.7
+2018,Male,"Widowed, divorced, or separated",4.7
+2018,Male,Never married,6.4
+2018,Male,"Total, 25 years and over",3.2
+2018,Male,"Married, spouse present",2.0
+2018,Male,"Widowed, divorced, or separated",4.4
+2018,Male,Never married,5.3
+2018,Male,"White, 25 years and over",2.8
+2018,Male,"Married, spouse present",1.9
+2018,Male,"Widowed, divorced, or separated",4.3
+2018,Male,Never married,4.6
+2018,Male,"Black or African American, 25 years and over",5.4
+2018,Male,"Married, spouse present",3.3
+2018,Male,"Widowed, divorced, or separated",5.6
+2018,Male,Never married,7.9
+2018,Male,"Asian, 25 years and over",2.4
+2018,Male,"Married, spouse present",1.8
+2018,Male,"Widowed, divorced, or separated",1.7
+2018,Male,Never married,4.7
+2018,Male,"Hispanic or Latino ethnicity, 25 years and over",3.3
+2018,Male,"Married, spouse present",2.6
+2018,Male,"Widowed, divorced, or separated",4.5
+2018,Male,Never married,4.3
+2019,Male,"Total, 16 years and over",3.7
+2019,Male,"Married, spouse present",1.8
+2019,Male,"Widowed, divorced, or separated",4.0
+2019,Male,Never married,6.7
+2019,Male,"White, 16 years and over",3.3
+2019,Male,"Married, spouse present",1.7
+2019,Male,"Widowed, divorced, or separated",3.8
+2019,Male,Never married,5.9
+2019,Male,"Black or African American, 16 years and over",6.6
+2019,Male,"Married, spouse present",2.6
+2019,Male,"Widowed, divorced, or separated",5.5
+2019,Male,Never married,10.1
+2019,Male,"Asian, 16 years and over",2.7
+2019,Male,"Married, spouse present",1.9
+2019,Male,"Widowed, divorced, or separated",2.7
+2019,Male,Never married,4.5
+2019,Male,"Hispanic or Latino ethnicity, 16 years and over",4.0
+2019,Male,"Married, spouse present",2.3
+2019,Male,"Widowed, divorced, or separated",3.6
+2019,Male,Never married,6.3
+2019,Male,"Total, 25 years and over",2.9
+2019,Male,"Married, spouse present",1.8
+2019,Male,"Widowed, divorced, or separated",3.9
+2019,Male,Never married,5.0
+2019,Male,"White, 25 years and over",2.6
+2019,Male,"Married, spouse present",1.7
+2019,Male,"Widowed, divorced, or separated",3.7
+2019,Male,Never married,4.4
+2019,Male,"Black or African American, 25 years and over",5.1
+2019,Male,"Married, spouse present",2.6
+2019,Male,"Widowed, divorced, or separated",5.5
+2019,Male,Never married,7.7
+2019,Male,"Asian, 25 years and over",2.4
+2019,Male,"Married, spouse present",1.9
+2019,Male,"Widowed, divorced, or separated",2.5
+2019,Male,Never married,3.9
+2019,Male,"Hispanic or Latino ethnicity, 25 years and over",3.0
+2019,Male,"Married, spouse present",2.3
+2019,Male,"Widowed, divorced, or separated",3.5
+2019,Male,Never married,4.3
+2018,Female,"Total, 16 years and over",3.8
+2018,Female,"Married, spouse present",2.4
+2018,Female,"Widowed, divorced, or separated",4.0
+2018,Female,Never married,5.8
+2018,Female,"White, 16 years and over",3.4
+2018,Female,"Married, spouse present",2.3
+2018,Female,"Widowed, divorced, or separated",4.0
+2018,Female,Never married,5.0
+2018,Female,"Black or African American, 16 years and over",6.0
+2018,Female,"Married, spouse present",3.3
+2018,Female,"Widowed, divorced, or separated",4.5
+2018,Female,Never married,8.2
+2018,Female,"Asian, 16 years and over",3.0
+2018,Female,"Married, spouse present",2.4
+2018,Female,"Widowed, divorced, or separated",2.5
+2018,Female,Never married,4.7
+2018,Female,"Hispanic or Latino ethnicity, 16 years and over",5.1
+2018,Female,"Married, spouse present",3.9
+2018,Female,"Widowed, divorced, or separated",5.2
+2018,Female,Never married,6.5
+2018,Female,"Total, 25 years and over",3.2
+2018,Female,"Married, spouse present",2.3
+2018,Female,"Widowed, divorced, or separated",4.0
+2018,Female,Never married,4.6
+2018,Female,"White, 25 years and over",2.9
+2018,Female,"Married, spouse present",2.2
+2018,Female,"Widowed, divorced, or separated",3.9
+2018,Female,Never married,3.8
+2018,Female,"Black or African American, 25 years and over",5.1
+2018,Female,"Married, spouse present",3.2
+2018,Female,"Widowed, divorced, or separated",4.5
+2018,Female,Never married,7.0
+2018,Female,"Asian, 25 years and over",2.5
+2018,Female,"Married, spouse present",2.4
+2018,Female,"Widowed, divorced, or separated",2.5
+2018,Female,Never married,3.0
+2018,Female,"Hispanic or Latino ethnicity, 25 years and over",4.4
+2018,Female,"Married, spouse present",3.8
+2018,Female,"Widowed, divorced, or separated",5.0
+2018,Female,Never married,5.1
+2019,Female,"Total, 16 years and over",3.6
+2019,Female,"Married, spouse present",2.2
+2019,Female,"Widowed, divorced, or separated",3.8
+2019,Female,Never married,5.5
+2019,Female,"White, 16 years and over",3.2
+2019,Female,"Married, spouse present",2.2
+2019,Female,"Widowed, divorced, or separated",3.7
+2019,Female,Never married,4.8
+2019,Female,"Black or African American, 16 years and over",5.6
+2019,Female,"Married, spouse present",2.7
+2019,Female,"Widowed, divorced, or separated",4.2
+2019,Female,Never married,7.8
+2019,Female,"Asian, 16 years and over",2.7
+2019,Female,"Married, spouse present",2.1
+2019,Female,"Widowed, divorced, or separated",2.2
+2019,Female,Never married,4.2
+2019,Female,"Hispanic or Latino ethnicity, 16 years and over",4.7
+2019,Female,"Married, spouse present",3.5
+2019,Female,"Widowed, divorced, or separated",3.8
+2019,Female,Never married,6.4
+2019,Female,"Total, 25 years and over",3.0
+2019,Female,"Married, spouse present",2.2
+2019,Female,"Widowed, divorced, or separated",3.7
+2019,Female,Never married,4.3
+2019,Female,"White, 25 years and over",2.8
+2019,Female,"Married, spouse present",2.1
+2019,Female,"Widowed, divorced, or separated",3.6
+2019,Female,Never married,3.7
+2019,Female,"Black or African American, 25 years and over",4.5
+2019,Female,"Married, spouse present",2.6
+2019,Female,"Widowed, divorced, or separated",4.3
+2019,Female,Never married,6.2
+2019,Female,"Asian, 25 years and over",2.3
+2019,Female,"Married, spouse present",2.1
+2019,Female,"Widowed, divorced, or separated",2.2
+2019,Female,Never married,2.9
+2019,Female,"Hispanic or Latino ethnicity, 25 years and over",3.8
+2019,Female,"Married, spouse present",3.3
+2019,Female,"Widowed, divorced, or separated",3.6
+2019,Female,Never married,5.1
+,,,
+,,,
+,,,
+,,,
